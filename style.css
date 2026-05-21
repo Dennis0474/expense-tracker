@@ -110,7 +110,7 @@ color: var(--color-income);
   color: var(--color-neutral);
 }
 
-.filter-btn:active {
+.filter-btn.active {
   background: var(--color-neutral);
   color: #fff;
   border-color: var(--color-neutral);
