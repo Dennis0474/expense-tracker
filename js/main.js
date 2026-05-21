@@ -49,12 +49,10 @@ function handleFilterClick(event) {
 
   activeCategory = event.target.dataset.category;
 
-  setActiveFilter(activeCategory);
-
   render();
 }
 
 document.getElementById("add-btn").addEventListener("click", handleAddTransaction);
 document.getElementById("transaction-list").addEventListener("click", handleDeleteTransaction);
-document.querySelector(".filter-btn").addEventListener("click", handleFilterClick);
+document.querySelector(".filters").addEventListener("click", handleFilterClick);
 render();
