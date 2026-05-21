@@ -17,3 +17,6 @@ A vanilla JavaScript expense tracker built without any frameworks or libraries.
 
 ## How to Run
 Clone the repo and open `index.html` in your browser. No install needed.
+
+## 📫 Contact
+- Email: dennisegheosaomoyibo@gmail.com
