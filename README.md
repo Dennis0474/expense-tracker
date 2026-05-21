@@ -1,5 +1,7 @@
 # Expense Tracker
 
+🔗 [Live Demo] (https://dennis0474.github.io/expense-tracker/)
+
 A vanilla JavaScript expense tracker built without any frameworks or libraries.
 
 ## Features
